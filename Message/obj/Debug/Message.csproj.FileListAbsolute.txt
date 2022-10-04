@@ -1,0 +1,9 @@
+c:\users\sarmed\documents\visual studio 2012\Projects\Message\Message\bin\Debug\Message.exe.config
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\bin\Debug\Message.exe
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\bin\Debug\Message.pdb
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.Form1.resources
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.Properties.Resources.resources
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.csproj.GenerateResource.Cache
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.exe
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.pdb
